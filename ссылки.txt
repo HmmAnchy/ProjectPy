@@ -1,1 +1,7 @@
 https://python-course.readthedocs.io/projects/elementary/en/latest/lessons/18-pygame.html
+https://cpp-python-nsu.inp.nsk.su/textbook/sec5/ch1
+https://younglinux.info/pygame/pygame
+https://proglib.io/p/samouchitel-po-python-dlya-nachinayushchih-chast-21-osnovy-razrabotki-igr-na-pygame-2023-05-29
+https://waksoft.susu.ru/2019/04/24/pygame-shpargalka-dlja-ispolzovanija/
+https://pythonru.com/tag/pishem-igru-na-pygame/
+https://vc.ru/tech/635845-ot-nachala-do-pobedy-kak-sozdat-svoyu-pervuyu-igru-na-python-s-ispolzovaniem-biblioteki-pygame
